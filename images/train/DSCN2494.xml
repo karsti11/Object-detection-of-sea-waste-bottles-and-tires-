@@ -1,0 +1,26 @@
+<annotation>
+	<folder>slike za OD</folder>
+	<filename>DSCN2494.JPG</filename>
+	<path>D:\ML Python\slike_iz_mora\slike za OD\DSCN2494.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>329</xmin>
+			<ymin>164</ymin>
+			<xmax>517</xmax>
+			<ymax>352</ymax>
+		</bndbox>
+	</object>
+</annotation>
