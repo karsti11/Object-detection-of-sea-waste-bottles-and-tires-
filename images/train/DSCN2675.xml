@@ -1,0 +1,50 @@
+<annotation>
+	<folder>slike 24_10_2019 resized</folder>
+	<filename>DSCN2675.jpg</filename>
+	<path>D:\ML Python\slike_iz_mora\slike 24_10_2019 resized\DSCN2675.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>410</xmin>
+			<ymin>397</ymin>
+			<xmax>505</xmax>
+			<ymax>525</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>571</xmin>
+			<ymin>109</ymin>
+			<xmax>650</xmax>
+			<ymax>200</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>185</xmin>
+			<ymin>200</ymin>
+			<xmax>428</xmax>
+			<ymax>429</ymax>
+		</bndbox>
+	</object>
+</annotation>
