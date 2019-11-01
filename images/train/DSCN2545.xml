@@ -1,0 +1,38 @@
+<annotation>
+	<folder>slike za OD</folder>
+	<filename>DSCN2545.JPG</filename>
+	<path>D:\ML Python\slike_iz_mora\slike za OD\DSCN2545.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>486</xmin>
+			<ymin>252</ymin>
+			<xmax>568</xmax>
+			<ymax>359</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>228</xmin>
+			<ymin>370</ymin>
+			<xmax>346</xmax>
+			<ymax>432</ymax>
+		</bndbox>
+	</object>
+</annotation>
